@@ -1,0 +1,1 @@
+This is simple .txt file while learning to clone a repository from github server to my local machine and then pushing commit.
